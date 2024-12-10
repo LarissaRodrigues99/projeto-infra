@@ -1,0 +1,35 @@
+[33mcommit 10528e75bbdf1e2c46d17c429e9a4592c5a68c4f[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m
+Author: LarissaRodrigues99 <larissarodrigues1599@gmail.com>
+Date:   Mon Nov 25 23:31:55 2024 -0300
+
+    Add design file
+
+[33mcommit d9706e3500e94cafb4916070f6ac0228d9e45ca8[m
+Author: LarissaRodrigues99 <larissarodrigues1599@gmail.com>
+Date:   Mon Nov 25 22:29:53 2024 -0300
+
+    Removendo arquivos grandes do repositório
+
+[33mcommit 6f626d35d933b94d64ff5b3e4c01f24cdc8ef809[m
+Author: LarissaRodrigues99 <larissarodrigues1599@gmail.com>
+Date:   Mon Nov 25 22:26:33 2024 -0300
+
+    Git ignore
+
+[33mcommit 768f806b37392f8a5178d5403949891c1754a23e[m[33m ([m[1;32mmaster[m[33m)[m
+Author: LarissaRodrigues99 <larissarodrigues1599@gmail.com>
+Date:   Mon Nov 25 22:19:18 2024 -0300
+
+    Adicionando arquivos grandes ao Git LFS
+
+[33mcommit 3f1f45c6695c325b84837aa3ce8c1094c4119e43[m
+Author: LarissaRodrigues99 <larissarodrigues1599@gmail.com>
+Date:   Thu Nov 21 00:26:43 2024 -0300
+
+    Subindo infra
+
+[33mcommit 7a8332535629982991252d27ba240a2bc91a8c35[m
+Author: LarissaRodrigues99 <larissarodrigues1599@gmail.com>
+Date:   Mon Nov 18 21:11:08 2024 -0300
+
+    Primeiro commit infra
