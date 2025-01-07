@@ -17,8 +17,14 @@ resource "aws_instance" "app_server" {
   ami           = "ami-0989c1b438266c944"
   instance_type = "t2.micro"
   key_name = "iac-alura"
+  # used_data = <<-EOF
+  #            #!/bin/bash
+  #            cd/home/ubuntu
+  #            echo "<h1>Feito com terrafom</h1>" > index.html
+  #            nohup busybox httpd -f -p 8080 &
+  #            EPF
 
   tags = {
-    Name = "Primeira instancia"
+    Name = "Test aws"
   }
 }
